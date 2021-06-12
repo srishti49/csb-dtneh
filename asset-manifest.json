@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://srishti49.github.io/csb-dtneh/static/js/main.58872a04.chunk.js",
+    "main.js.map": "https://srishti49.github.io/csb-dtneh/static/js/main.58872a04.chunk.js.map",
+    "runtime-main.js": "https://srishti49.github.io/csb-dtneh/static/js/runtime-main.24cf760a.js",
+    "runtime-main.js.map": "https://srishti49.github.io/csb-dtneh/static/js/runtime-main.24cf760a.js.map",
+    "static/js/2.5c980291.chunk.js": "https://srishti49.github.io/csb-dtneh/static/js/2.5c980291.chunk.js",
+    "static/js/2.5c980291.chunk.js.map": "https://srishti49.github.io/csb-dtneh/static/js/2.5c980291.chunk.js.map",
+    "index.html": "https://srishti49.github.io/csb-dtneh/index.html",
+    "precache-manifest.6c54be6699c2a1f0c069a1181140daf7.js": "https://srishti49.github.io/csb-dtneh/precache-manifest.6c54be6699c2a1f0c069a1181140daf7.js",
+    "service-worker.js": "https://srishti49.github.io/csb-dtneh/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24cf760a.js",
+    "static/js/2.5c980291.chunk.js",
+    "static/js/main.58872a04.chunk.js"
+  ]
+}
